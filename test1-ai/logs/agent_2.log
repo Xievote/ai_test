@@ -1,0 +1,325 @@
+2026-07-14 17:02:30,050 [INFO] DocAgent - 启动演示模式
+2026-07-14 17:02:30,051 [INFO] DocAgent - 收到转换请求 - 类型: 汇报, 格式: PPT
+2026-07-14 17:02:30,493 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:02:32,601 [INFO] DocAgent - 开始生成 Markdown，文档类型: 汇报
+2026-07-14 17:02:33,450 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:02:41,301 [INFO] DocAgent - Markdown 生成成功，长度: 1077 字符
+2026-07-14 17:02:41,560 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:02:45,677 [INFO] DocAgent - 开始转换为 PPT 格式
+2026-07-14 17:02:45,904 [INFO] DocAgent - PPT 文件已保存: D:\code\Ai_Pj\test1-ai\output\presentation_20260714_170245.pptx
+2026-07-14 17:02:46,074 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:02:48,373 [INFO] DocAgent - 转换任务完成: ## ✅ 文档转换完成！
+
+整个流程已经按步骤成功执行，以下是处理结果：
+
+### 📋 第一步：Markdown 转换 ✅
+已将您的原始内容转换为结构完整的 Markdown 文档，包含：
+- 工作概...
+2026-07-14 17:02:48,374 [INFO] DocAgent - 收到转换请求 - 类型: 汇报, 格式: WORD
+2026-07-14 17:02:48,548 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:02:50,835 [INFO] DocAgent - 开始生成 Markdown，文档类型: 汇报
+2026-07-14 17:02:51,677 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:03:03,022 [INFO] DocAgent - Markdown 生成成功，长度: 1072 字符
+2026-07-14 17:03:03,512 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:03:07,924 [INFO] DocAgent - 开始转换为 WORD 格式
+2026-07-14 17:03:08,080 [INFO] DocAgent - WORD 文件已保存: D:\code\Ai_Pj\test1-ai\output\document_20260714_170308.docx
+2026-07-14 17:03:08,232 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:03:10,713 [INFO] DocAgent - 转换任务完成: 🎉 **文档转换全部完成！** 以下是处理流程总结：
+
+---
+
+### ✅ 处理流程
+
+| 步骤 | 操作 | 状态 |
+|:---:|:---:|:---:|
+| ① | 原始内容 → **Mar...
+2026-07-14 17:03:10,714 [INFO] DocAgent - 收到转换请求 - 类型: 汇报, 格式: EXCEL
+2026-07-14 17:03:10,843 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:03:13,334 [INFO] DocAgent - 开始生成 Markdown，文档类型: 汇报
+2026-07-14 17:03:14,112 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:03:23,157 [INFO] DocAgent - Markdown 生成成功，长度: 976 字符
+2026-07-14 17:03:23,475 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:03:27,796 [INFO] DocAgent - 开始转换为 EXCEL 格式
+2026-07-14 17:03:28,314 [INFO] DocAgent - EXCEL 文件已保存: D:\code\Ai_Pj\test1-ai\output\spreadsheet_20260714_170328.xlsx
+2026-07-14 17:03:28,521 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:03:31,714 [INFO] DocAgent - 转换任务完成: ## ✅ 文档转换完成！
+
+经过两个步骤的处理，已成功为您生成了 **EXCEL 文件** 📊
+
+| 步骤 | 状态 | 说明 |
+|------|:----:|------|
+| ① 原始内容 → ...
+2026-07-14 17:09:20,589 [INFO] DocAgent - 收到转换请求 - 类型: 汇报, 格式: PPT
+2026-07-14 17:09:21,045 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:09:34,635 [INFO] DocAgent - 开始生成 Markdown，文档类型: 汇报
+2026-07-14 17:09:35,537 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:10:00,273 [INFO] DocAgent - Markdown 生成成功，长度: 2126 字符
+2026-07-14 17:10:00,622 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:10:11,261 [INFO] DocAgent - 开始转换为 PPT 格式
+2026-07-14 17:10:11,470 [INFO] DocAgent - PPT 文件已保存: d:\code\Ai_Pj\test1-ai\output\presentation_20260714_171011.pptx
+2026-07-14 17:10:11,667 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:10:14,755 [INFO] DocAgent - 转换任务完成: ## 转换完成！🎉
+
+整个转换流程已成功执行，以下是处理结果：
+
+---
+
+### 📋 第一步：Markdown 转换 ✅
+原始内容已成功转换为结构化的 Markdown 文档，包含以下章节：
+1. ...
+2026-07-14 17:18:29,387 [INFO] DocAgent - 启动演示模式
+2026-07-14 17:18:29,387 [INFO] DocAgent - 收到转换请求 - 类型: 汇报, 格式: PPT
+2026-07-14 17:18:29,749 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:18:32,600 [INFO] DocAgent - 开始生成 Markdown，文档类型: 汇报
+2026-07-14 17:18:33,413 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:18:40,115 [INFO] DocAgent - Markdown 生成成功，长度: 1103 字符
+2026-07-14 17:18:40,328 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:18:44,230 [INFO] DocAgent - 开始转换为 PPT 格式（智能分页 + LLM 生成文件名）
+2026-07-14 17:18:44,349 [INFO] DocAgent - 调用 LLM 生成文档标题用于文件名...
+2026-07-14 17:18:45,162 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:18:47,059 [INFO] DocAgent - LLM 生成的标题: Q3季度工作汇报与改进重点
+2026-07-14 17:18:47,060 [INFO] DocAgent - 幻灯片解析完成，共 10 页
+2026-07-14 17:18:47,108 [INFO] DocAgent - PPT 文件已保存 (10 页): D:\code\Ai_Pj\test1-ai\output\Q3季度工作汇报与改进重点.pptx
+2026-07-14 17:18:47,282 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:18:49,645 [INFO] DocAgent - 转换任务完成: ## ✅ 文档转换完成！
+
+整个流程已按您的要求处理完毕，以下是具体结果：
+
+### 处理流程回顾
+
+| 步骤 | 操作 | 状态 |
+|------|------|------|
+| ① | 原始内...
+2026-07-14 17:18:49,645 [INFO] DocAgent - 收到转换请求 - 类型: 汇报, 格式: WORD
+2026-07-14 17:18:49,798 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:18:52,056 [INFO] DocAgent - 开始生成 Markdown，文档类型: 汇报
+2026-07-14 17:18:52,778 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:18:58,498 [INFO] DocAgent - Markdown 生成成功，长度: 954 字符
+2026-07-14 17:18:58,823 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:19:02,529 [INFO] DocAgent - 开始转换为 WORD 格式
+2026-07-14 17:19:02,657 [INFO] DocAgent - WORD 文件已保存: D:\code\Ai_Pj\test1-ai\output\document_20260714_171902.docx
+2026-07-14 17:19:03,242 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:19:05,619 [INFO] DocAgent - 转换任务完成: 全部流程已完成！以下是处理结果汇总：
+
+---
+
+### ✅ 处理成功
+
+| 步骤 | 状态 | 说明 |
+|------|:----:|------|
+| **① 原始内容 → Markdown**...
+2026-07-14 17:19:05,620 [INFO] DocAgent - 收到转换请求 - 类型: 汇报, 格式: EXCEL
+2026-07-14 17:19:05,848 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:19:08,042 [INFO] DocAgent - 开始生成 Markdown，文档类型: 汇报
+2026-07-14 17:19:08,817 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:19:17,154 [INFO] DocAgent - Markdown 生成成功，长度: 816 字符
+2026-07-14 17:19:17,429 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:19:20,580 [INFO] DocAgent - 开始转换为 EXCEL 格式
+2026-07-14 17:19:20,976 [INFO] DocAgent - EXCEL 文件已保存: D:\code\Ai_Pj\test1-ai\output\spreadsheet_20260714_171920.xlsx
+2026-07-14 17:19:21,097 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:19:23,665 [INFO] DocAgent - 转换任务完成: ✅ **全部完成！** 以下是整个处理流程的结果：
+
+---
+
+### 📋 处理流程回顾
+
+| 步骤 | 操作 | 状态 |
+|:---:|:---|:---:|
+| 1️⃣ | 原始内容 → **M...
+2026-07-14 17:22:57,236 [INFO] DocAgent - 收到转换请求 - 类型: 报告, 格式: PPT
+2026-07-14 17:22:57,591 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:23:08,023 [INFO] DocAgent - 开始生成 Markdown，文档类型: 报告
+2026-07-14 17:23:08,755 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:23:27,168 [INFO] DocAgent - Markdown 生成成功，长度: 2692 字符
+2026-07-14 17:23:27,405 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:23:37,157 [INFO] DocAgent - 开始转换为 PPT 格式（智能分页 + LLM 生成文件名）
+2026-07-14 17:23:37,296 [INFO] DocAgent - 调用 LLM 生成文档标题用于文件名...
+2026-07-14 17:23:38,248 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:23:43,614 [INFO] DocAgent - LLM 生成的标题: 小学学籍管理工作报告
+2026-07-14 17:23:43,615 [INFO] DocAgent - 幻灯片解析完成，共 14 页
+2026-07-14 17:23:43,732 [INFO] DocAgent - PPT 文件已保存 (14 页): d:\code\Ai_Pj\test1-ai\output\小学学籍管理工作报告.pptx
+2026-07-14 17:23:44,010 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:23:47,107 [INFO] DocAgent - 转换任务完成: ## ✅ 文件生成完成！
+
+整个转换流程已成功执行，现将结果告知如下：
+
+---
+
+### 📋 处理结果
+
+| 步骤 | 状态 | 说明 |
+|------|:----:|------|
+| ① 原始...
+2026-07-14 17:56:19,004 [INFO] DocAgent - LLM 实例已初始化: deepseek:deepseek-v4-flash
+2026-07-14 17:56:19,012 [INFO] DocAgent - 启动演示模式
+2026-07-14 17:56:19,012 [INFO] DocAgent - [进度] 收到转换请求 - 类型: 汇报, 格式: PPT
+2026-07-14 17:56:19,012 [INFO] DocAgent - [进度] 开始执行文档转换流程...
+2026-07-14 17:56:19,453 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:56:21,594 [INFO] DocAgent - [进度] [1/2] 正在分析原始内容，文档类型: 汇报...
+2026-07-14 17:56:21,594 [INFO] DocAgent - [进度] [1/2] 正在生成 Markdown 文档（使用 deepseek:deepseek-v4-flash）...
+2026-07-14 17:56:21,729 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:56:28,939 [INFO] DocAgent - Markdown 生成成功，长度: 747 字符
+2026-07-14 17:56:28,939 [INFO] DocAgent - [进度] [1/2] ✓ Markdown 生成完成 (747 字符)
+2026-07-14 17:56:29,080 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:56:32,520 [INFO] DocAgent - [进度] [PPT] 开始转换为 PPT 格式（智能分页 + 标题生成）...
+2026-07-14 17:56:32,682 [INFO] DocAgent - [进度] [标题] 正在分析文档内容生成文件名...
+2026-07-14 17:56:32,844 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:56:34,201 [INFO] DocAgent - LLM 生成的标题: Q3工作进展与问题总结
+2026-07-14 17:56:34,201 [INFO] DocAgent - [进度] [标题] ✓ 文档标题: Q3工作进展与问题总结
+2026-07-14 17:56:34,201 [INFO] DocAgent - [进度] [PPT] 正在解析文档结构并智能分页...
+2026-07-14 17:56:34,202 [INFO] DocAgent - 幻灯片解析完成，共 9 页
+2026-07-14 17:56:34,202 [INFO] DocAgent - [进度] [PPT] 解析完成，共 9 页，正在渲染...
+2026-07-14 17:56:34,210 [INFO] DocAgent - [进度] [PPT] 渲染第 1/9 页...
+2026-07-14 17:56:34,212 [INFO] DocAgent - [进度] [PPT] 渲染第 2/9 页...
+2026-07-14 17:56:34,215 [INFO] DocAgent - [进度] [PPT] 渲染第 3/9 页...
+2026-07-14 17:56:34,217 [INFO] DocAgent - [进度] [PPT] 渲染第 4/9 页...
+2026-07-14 17:56:34,221 [INFO] DocAgent - [进度] [PPT] 渲染第 5/9 页...
+2026-07-14 17:56:34,223 [INFO] DocAgent - [进度] [PPT] 渲染第 6/9 页...
+2026-07-14 17:56:34,227 [INFO] DocAgent - [进度] [PPT] 渲染第 7/9 页...
+2026-07-14 17:56:34,229 [INFO] DocAgent - [进度] [PPT] 渲染第 8/9 页...
+2026-07-14 17:56:34,231 [INFO] DocAgent - [进度] [PPT] 渲染第 9/9 页...
+2026-07-14 17:56:34,233 [INFO] DocAgent - [进度] [PPT] 正在保存文件...
+2026-07-14 17:56:34,243 [INFO] DocAgent - PPT 文件已保存 (9 页): D:\code\Ai_Pj\test1-ai\output\Q3工作进展与问题总结.pptx
+2026-07-14 17:56:34,243 [INFO] DocAgent - [进度] [PPT] ✓ 文件已保存: Q3工作进展与问题总结.pptx
+2026-07-14 17:56:34,375 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:56:37,358 [INFO] DocAgent - 转换任务完成: 所有步骤已顺利完成！以下是处理结果：
+
+---
+
+### ✅ 文档转换完成
+
+| 步骤 | 状态 | 说明 |
+|------|------|------|
+| ① 原始内容 → Markdown |...
+2026-07-14 17:56:37,358 [INFO] DocAgent - [进度] 文档转换流程结束
+2026-07-14 17:56:37,358 [INFO] DocAgent - [进度] 收到转换请求 - 类型: 汇报, 格式: WORD
+2026-07-14 17:56:37,358 [INFO] DocAgent - [进度] 开始执行文档转换流程...
+2026-07-14 17:56:37,530 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:56:39,836 [INFO] DocAgent - [进度] [1/2] 正在分析原始内容，文档类型: 汇报...
+2026-07-14 17:56:39,836 [INFO] DocAgent - [进度] [1/2] 正在生成 Markdown 文档（使用 deepseek:deepseek-v4-flash）...
+2026-07-14 17:56:39,973 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:56:46,432 [INFO] DocAgent - Markdown 生成成功，长度: 972 字符
+2026-07-14 17:56:46,432 [INFO] DocAgent - [进度] [1/2] ✓ Markdown 生成完成 (972 字符)
+2026-07-14 17:56:46,644 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:56:50,559 [INFO] DocAgent - [进度] [WORD] 开始转换为 WORD 格式...
+2026-07-14 17:56:50,691 [INFO] DocAgent - [进度] [标题] 正在分析文档内容生成文件名...
+2026-07-14 17:56:50,805 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:56:52,295 [INFO] DocAgent - LLM 生成的标题: 2024年Q3季度工作汇报
+2026-07-14 17:56:52,295 [INFO] DocAgent - [进度] [标题] ✓ 文档标题: 2024年Q3季度工作汇报
+2026-07-14 17:56:52,295 [INFO] DocAgent - [进度] [WORD] 正在保存文件...
+2026-07-14 17:56:52,308 [INFO] DocAgent - WORD 文件已保存: D:\code\Ai_Pj\test1-ai\output\2024年Q3季度工作汇报.docx
+2026-07-14 17:56:52,309 [INFO] DocAgent - [进度] [WORD] ✓ 文件已保存: 2024年Q3季度工作汇报.docx
+2026-07-14 17:56:52,454 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:56:54,670 [INFO] DocAgent - 转换任务完成: ## ✅ 文档转换完成！
+
+整个处理流程已顺利执行完毕，具体如下：
+
+| 步骤 | 状态 | 说明 |
+|------|:----:|------|
+| ① 原始内容 → Markdown | ✅ 成...
+2026-07-14 17:56:54,670 [INFO] DocAgent - [进度] 文档转换流程结束
+2026-07-14 17:56:54,670 [INFO] DocAgent - [进度] 收到转换请求 - 类型: 汇报, 格式: EXCEL
+2026-07-14 17:56:54,670 [INFO] DocAgent - [进度] 开始执行文档转换流程...
+2026-07-14 17:56:54,796 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:56:57,282 [INFO] DocAgent - [进度] [1/2] 正在分析原始内容，文档类型: 汇报...
+2026-07-14 17:56:57,282 [INFO] DocAgent - [进度] [1/2] 正在生成 Markdown 文档（使用 deepseek:deepseek-v4-flash）...
+2026-07-14 17:56:57,417 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:57:03,808 [INFO] DocAgent - Markdown 生成成功，长度: 1260 字符
+2026-07-14 17:57:03,808 [INFO] DocAgent - [进度] [1/2] ✓ Markdown 生成完成 (1260 字符)
+2026-07-14 17:57:04,019 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:57:07,823 [INFO] DocAgent - [进度] [EXCEL] 开始转换为 EXCEL 格式...
+2026-07-14 17:57:08,120 [INFO] DocAgent - [进度] [标题] 正在分析文档内容生成文件名...
+2026-07-14 17:57:08,253 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:57:10,351 [INFO] DocAgent - LLM 生成的标题: 2024年Q3季度工作汇报
+2026-07-14 17:57:10,351 [INFO] DocAgent - [进度] [标题] ✓ 文档标题: 2024年Q3季度工作汇报
+2026-07-14 17:57:10,352 [INFO] DocAgent - [进度] [EXCEL] 正在保存文件...
+2026-07-14 17:57:10,449 [INFO] DocAgent - EXCEL 文件已保存: D:\code\Ai_Pj\test1-ai\output\2024年Q3季度工作汇报.xlsx
+2026-07-14 17:57:10,449 [INFO] DocAgent - [进度] [EXCEL] ✓ 文件已保存: 2024年Q3季度工作汇报.xlsx
+2026-07-14 17:57:10,593 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-14 17:57:13,027 [INFO] DocAgent - 转换任务完成: ✅ **文档转换完成！** 以下是处理结果汇总：
+
+---
+
+### 📋 处理流程
+
+| 步骤 | 操作 | 状态 |
+|:---:|:---|:---:|
+| ① | 原始内容 → **Markdo...
+2026-07-14 17:57:13,027 [INFO] DocAgent - [进度] 文档转换流程结束
+2026-07-15 16:18:37,773 [INFO] DocAgent - LLM 实例已初始化: deepseek:deepseek-v4-flash
+2026-07-15 16:21:26,567 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-15 16:23:33,456 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-15 16:23:39,749 [INFO] DocAgent - [进度] [1/2] 正在分析原始内容，文档类型: 报告...
+2026-07-15 16:23:39,750 [INFO] DocAgent - [进度] [1/2] 正在生成 Markdown 文档（使用 deepseek:deepseek-v4-flash）...
+2026-07-15 16:23:40,000 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-15 16:23:58,046 [INFO] DocAgent - Markdown 生成成功，长度: 2300 字符
+2026-07-15 16:23:58,047 [INFO] DocAgent - [进度] [1/2] ✓ Markdown 生成完成 (2300 字符)
+2026-07-15 16:23:58,405 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-15 16:24:06,384 [INFO] DocAgent - [进度] [PPT] 开始转换为 PPT 格式（智能分页 + 标题生成）...
+2026-07-15 16:24:07,411 [INFO] DocAgent - [进度] [标题] 正在分析文档内容生成文件名...
+2026-07-15 16:24:07,793 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-15 16:24:08,812 [INFO] DocAgent - LLM 生成的标题: 学籍管理规范化与动态化实践
+2026-07-15 16:24:08,812 [INFO] DocAgent - [进度] [标题] ✓ 文档标题: 学籍管理规范化与动态化实践
+2026-07-15 16:24:08,812 [INFO] DocAgent - [进度] [PPT] 正在解析文档结构并智能分页...
+2026-07-15 16:24:08,814 [INFO] DocAgent - 幻灯片解析完成，共 14 页
+2026-07-15 16:24:08,815 [INFO] DocAgent - [进度] [PPT] 解析完成，共 14 页，正在渲染...
+2026-07-15 16:24:08,828 [INFO] DocAgent - [进度] [PPT] 渲染第 1/14 页...
+2026-07-15 16:24:08,833 [INFO] DocAgent - [进度] [PPT] 渲染第 2/14 页...
+2026-07-15 16:24:08,842 [INFO] DocAgent - [进度] [PPT] 渲染第 3/14 页...
+2026-07-15 16:24:08,855 [INFO] DocAgent - [进度] [PPT] 渲染第 4/14 页...
+2026-07-15 16:24:08,858 [INFO] DocAgent - [进度] [PPT] 渲染第 5/14 页...
+2026-07-15 16:24:08,862 [INFO] DocAgent - [进度] [PPT] 渲染第 6/14 页...
+2026-07-15 16:24:08,866 [INFO] DocAgent - [进度] [PPT] 渲染第 7/14 页...
+2026-07-15 16:24:08,873 [INFO] DocAgent - [进度] [PPT] 渲染第 8/14 页...
+2026-07-15 16:24:08,876 [INFO] DocAgent - [进度] [PPT] 渲染第 9/14 页...
+2026-07-15 16:24:08,879 [INFO] DocAgent - [进度] [PPT] 渲染第 10/14 页...
+2026-07-15 16:24:08,884 [INFO] DocAgent - [进度] [PPT] 渲染第 11/14 页...
+2026-07-15 16:24:08,890 [INFO] DocAgent - [进度] [PPT] 渲染第 12/14 页...
+2026-07-15 16:24:08,894 [INFO] DocAgent - [进度] [PPT] 渲染第 13/14 页...
+2026-07-15 16:24:08,897 [INFO] DocAgent - [进度] [PPT] 渲染第 14/14 页...
+2026-07-15 16:24:08,899 [INFO] DocAgent - [进度] [PPT] 正在保存文件...
+2026-07-15 16:24:08,924 [INFO] DocAgent - PPT 文件已保存 (14 页): d:\code\Ai_Pj\test1-ai\output\学籍管理规范化与动态化实践.pptx
+2026-07-15 16:24:08,924 [INFO] DocAgent - [进度] [PPT] ✓ 文件已保存: 学籍管理规范化与动态化实践.pptx
+2026-07-15 16:24:09,231 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-15 16:55:47,116 [INFO] DocAgent - LLM 实例已初始化: deepseek:deepseek-v4-flash
+2026-07-15 16:57:22,170 [INFO] DocAgent - [进度] 收到转换请求 - 类型: 汇报, 格式: PPT
+2026-07-15 16:57:22,172 [INFO] DocAgent - [进度] 开始执行文档转换流程...
+2026-07-15 16:57:22,620 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-15 16:57:33,624 [INFO] DocAgent - [进度] [1/2] 正在分析原始内容，文档类型: 汇报...
+2026-07-15 16:57:33,624 [INFO] DocAgent - [进度] [1/2] 正在生成 Markdown 文档（使用 deepseek:deepseek-v4-flash）...
+2026-07-15 16:57:33,851 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-15 16:57:47,788 [INFO] DocAgent - Markdown 生成成功，长度: 1918 字符
+2026-07-15 16:57:47,789 [INFO] DocAgent - [进度] [1/2] ✓ Markdown 生成完成 (1918 字符)
+2026-07-15 16:57:47,991 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-15 16:57:55,161 [INFO] DocAgent - [进度] [PPT] 开始转换为 PPT 格式（智能分页 + 标题生成）...
+2026-07-15 16:57:55,244 [INFO] DocAgent - [进度] [标题] 正在分析文档内容生成文件名...
+2026-07-15 16:57:55,401 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-15 16:57:57,466 [INFO] DocAgent - LLM 生成的标题: 小学学籍管理阶段总结
+2026-07-15 16:57:57,467 [INFO] DocAgent - [进度] [标题] ✓ 文档标题: 小学学籍管理阶段总结
+2026-07-15 16:57:57,467 [INFO] DocAgent - [进度] [PPT] 正在解析文档结构并智能分页...
+2026-07-15 16:57:57,467 [INFO] DocAgent - 幻灯片解析完成，共 13 页
+2026-07-15 16:57:57,467 [INFO] DocAgent - [进度] [PPT] 解析完成，共 13 页，正在渲染...
+2026-07-15 16:57:57,472 [INFO] DocAgent - [进度] [PPT] 渲染第 1/13 页...
+2026-07-15 16:57:57,475 [INFO] DocAgent - [进度] [PPT] 渲染第 2/13 页...
+2026-07-15 16:57:57,479 [INFO] DocAgent - [进度] [PPT] 渲染第 3/13 页...
+2026-07-15 16:57:57,481 [INFO] DocAgent - [进度] [PPT] 渲染第 4/13 页...
+2026-07-15 16:57:57,486 [INFO] DocAgent - [进度] [PPT] 渲染第 5/13 页...
+2026-07-15 16:57:57,490 [INFO] DocAgent - [进度] [PPT] 渲染第 6/13 页...
+2026-07-15 16:57:57,493 [INFO] DocAgent - [进度] [PPT] 渲染第 7/13 页...
+2026-07-15 16:57:57,496 [INFO] DocAgent - [进度] [PPT] 渲染第 8/13 页...
+2026-07-15 16:57:57,498 [INFO] DocAgent - [进度] [PPT] 渲染第 9/13 页...
+2026-07-15 16:57:57,500 [INFO] DocAgent - [进度] [PPT] 渲染第 10/13 页...
+2026-07-15 16:57:57,505 [INFO] DocAgent - [进度] [PPT] 渲染第 11/13 页...
+2026-07-15 16:57:57,507 [INFO] DocAgent - [进度] [PPT] 渲染第 12/13 页...
+2026-07-15 16:57:57,510 [INFO] DocAgent - [进度] [PPT] 渲染第 13/13 页...
+2026-07-15 16:57:57,511 [INFO] DocAgent - [进度] [PPT] 正在保存文件...
+2026-07-15 16:57:57,524 [INFO] DocAgent - PPT 文件已保存 (13 页): d:\code\Ai_Pj\test1-ai\output\小学学籍管理阶段总结.pptx
+2026-07-15 16:57:57,524 [INFO] DocAgent - [进度] [PPT] ✓ 文件已保存: 小学学籍管理阶段总结.pptx
+2026-07-15 16:57:57,756 [INFO] httpx - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-15 16:58:00,485 [INFO] DocAgent - 转换任务完成: ## ✅ 文档转换完成！
+
+整个流程已经顺利执行完毕，以下是处理结果：
+
+### 📋 第一步：转换为 Markdown ✅
+已将原始内容转换为结构完整的 Markdown 文档，包含**工作概述、重点...
+2026-07-15 16:58:00,486 [INFO] DocAgent - [进度] 文档转换流程结束
